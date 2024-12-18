@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jrails.JRouterTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-12-18T17:06:03" hostname="Alberts-MacBook-Pro.local" time="0.048">
+  <properties/>
+  <testcase name="testBookRoute" classname="jrails.JRouterTest" time="0.032"/>
+  <testcase name="addRoute" classname="jrails.JRouterTest" time="0.007"/>
+  <testcase name="getRouteNonExistent" classname="jrails.JRouterTest" time="0.003"/>
+  <testcase name="addRouteTest1" classname="jrails.JRouterTest" time="0.003"/>
+  <testcase name="addRouteTest2" classname="jrails.JRouterTest" time="0.001"/>
+  <testcase name="addRouteTest3" classname="jrails.JRouterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[FAILURE EXPECTED: java.lang.IllegalArgumentException: Error: Invalid Route Verb!
+FAILURE EXPECTED: java.lang.IllegalArgumentException: Error: Invalid Route Verb!
+]]></system-err>
+</testsuite>

@@ -1,0 +1,4 @@
+id ｜ title ｜ author ｜ num_copies
+16 ｜ update Title with the fresh instance ｜ Norman Ramsey ｜ 888
+14 ｜ Programming Languages: Build, Prove, and Compare ｜ Norman Ramsey ｜ 42
+15 ｜ Book 1 ｜ Chuyi Zhao ｜ 48
