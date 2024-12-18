@@ -45,4 +45,3 @@ The `Router` class finds the shortest path between the specified start and end p
 ### Prerequisites
 
 - **Java 8** or higher
-- **cs61b-sp18** packages
