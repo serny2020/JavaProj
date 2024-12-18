@@ -24,7 +24,6 @@ project-root/
 │-- gradle/            # Gradle build files
 │-- build.gradle       # Gradle build configuration
 │-- README.md          # Project documentation
-└── ...
 ```
 
 ## How to Build and Run
